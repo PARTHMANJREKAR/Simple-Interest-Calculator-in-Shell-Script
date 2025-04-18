@@ -62,7 +62,7 @@ We welcome contributions! Please see the CONTRIBUTING.md for guidelines.
 This project is licensed under the Apache 2.0 License.
 
 📬 Contact
-For questions or suggestions, feel free to open an issue or reach out at [your-email@example.com].
+For questions or suggestions, feel free to open an issue or reach out at [parthmanjrekar2546@gmail.com].
 
 yaml
 Copy
