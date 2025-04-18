@@ -1,6 +1,5 @@
 # Simple-Interest-Calculator-in-Shell-Script
 
-# Simple Interest Calculator
 
 This is a simple shell script that calculates **Simple Interest** based on user input.  
 It takes the principal amount, rate of interest, and time period as input and returns the calculated interest.
